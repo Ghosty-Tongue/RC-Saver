@@ -13,7 +13,7 @@ RC-Saver is a Python script designed to interact with the Roblox Chat API, allow
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/Ghosty-Tongue/RC-Saver/](https://github.com/Ghosty-Tongue/RC-Saver/)
+   git clone https://github.com/Ghosty-Tongue/RC-Saver/
    ```
 
 2. Install dependencies:
