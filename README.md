@@ -1,12 +1,12 @@
 # RC-Saver
 
-RC-Saver is a Python script designed to interact with the Roblox Chat API, allowing users to fetch conversation IDs, archive messages, and save them into JSON or TXT files. This tool is useful for managing and storing Roblox chat histories.
+RC-Saver is a Python script designed to interact with the Roblox Chat API, allowing users to fetch conversation IDs, archive messages, and save them into HTML or TXT files. This tool is useful for managing and storing Roblox chat histories.
 
 ## Features
 
 - Fetch conversation IDs from Roblox Chat API.
 - Retrieve and archive messages for each conversation.
-- Save messages in JSON or TXT format.
+- Save messages in HTML or TXT format.
 - Simple command-line interface for interaction.
 
 ## Installation
